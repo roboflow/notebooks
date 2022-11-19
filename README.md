@@ -1,5 +1,5 @@
 # notebooks
-Set of Jupiter notebooks linked to Roboflow Blogpost and used in YouTube tutorials.
+Set of Jupyter notebooks linked to Roboflow Blogpost and used in YouTube tutorials.
 
 # models zoo
 
