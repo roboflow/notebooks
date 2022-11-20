@@ -6,8 +6,14 @@ from typing import Optional, List
 NOTEBOOKS_ROOT_PATH = "https://github.com/roboflow-ai/notebooks/blob/main/notebooks"
 NOTEBOOKS_COLAB_ROOT_PATH = "github/roboflow-ai/notebooks/blob/main/notebooks"
 
-NOTEBOOKS_TABLE_HEADER = [
-    "| **notebook** | **colab** | **kaggle** | **blogpost** | **youtube** | **repository** |",
+WARNING_HEADER = [
+    "<!---",
+    "   WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.",
+    "   HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.",
+    "-->"
+]
+TABLE_HEADER = [
+    "| **notebook** | **open in colab** | **open in kaggle** | **roboflow blog** | **youtube** | **repository** |",
     "|:-------------|:---------:|:----------:|:------------:|:-----------:|:--------------:|"
 ]
 
@@ -44,7 +50,7 @@ class TableEntry:
         )
 
     def format(self) -> str:
-        notebook_link = NOTEBOOK_LINK_PATTERN.format(self.notebook_name, NOTEBOOKS_ROOT_PATH, self.notebook_name)
+        notebook_link = NOTEBOOK_LINK_PATTERN.format(self.notebook_name.removesuffix(".ipynb"), NOTEBOOKS_ROOT_PATH, self.notebook_name)
         open_in_colab_badge = OPEN_IN_COLAB_BADGE_PATTERN.format(NOTEBOOKS_COLAB_ROOT_PATH, self.notebook_name)
         open_in_kaggle_badge = OPEN_IN_KAGGLE_BADGE_PATTERN.format(NOTEBOOKS_ROOT_PATH, self.notebook_name)
         roboflow_badge = ROBOFLOW_BADGE_PATTERN.format(self.roboflow_blogpost_path)
@@ -95,6 +101,6 @@ if __name__ == "__main__":
     csv_lines = read_lines_from_file(path=args.data_path)[1:]
     readme_lines = read_lines_from_file(path=args.readme_path)
     table_entries = parse_csv_lines(csv_lines=csv_lines)
-    table_lines = NOTEBOOKS_TABLE_HEADER + table_entries
+    table_lines = WARNING_HEADER + TABLE_HEADER + table_entries
     readme_lines = inject_markdown_table_into_readme(readme_lines=readme_lines, table_lines=table_lines)
     save_lines_to_file(path=args.readme_path, lines=readme_lines)
