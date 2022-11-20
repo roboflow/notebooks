@@ -13,8 +13,8 @@ WARNING_HEADER = [
     "-->"
 ]
 TABLE_HEADER = [
-    "| **notebook** | **open in colab or kaggle** | **complementary materials** | **repository** |",
-    "|:-------------|:---------------------------:|:---------------------------:|:--------------:|"
+    "| **notebook** | **open notebook in colab or kaggle** | **complementary materials** | **repository** |",
+    "|:-------------|:------------------------------------:|:---------------------------:|:--------------:|"
 ]
 
 NOTEBOOK_LINK_PATTERN = "[{}]({}/{})"

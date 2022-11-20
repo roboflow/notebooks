@@ -15,7 +15,7 @@ body:
         Please search the [issues](https://github.com/roboflow-ai/notebooks/issues) to see if a similar bug report already exists.
       options:
         - label: >
-            I have searched the Roboflow Notebooks [issues](https://github.com/ultralytics/yolov5/issues) and found no similar bug report.
+            I have searched the Roboflow Notebooks [issues](https://github.com/roboflow-ai/notebooks/issues) and found no similar bug report.
           required: true
 
   - type: textarea
@@ -45,7 +45,7 @@ body:
         - OS: Ubuntu 20.04
         - Python: 3.9.0
     validations:
-      required: false
+      required: true
 
   - type: textarea
     attributes:
