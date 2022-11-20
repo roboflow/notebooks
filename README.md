@@ -2,7 +2,7 @@
 
 <p align="center">
     </br>
-    <img width="300" src="https://github.com/roboflow-ai/notebooks/raw/main/assets/roboflow_logomark_color.svg" alt="roboflow logo">
+    <img width="100" src="https://github.com/roboflow-ai/notebooks/raw/main/assets/roboflow_logomark_color.svg" alt="roboflow logo">
     </br>
 </p>
 
