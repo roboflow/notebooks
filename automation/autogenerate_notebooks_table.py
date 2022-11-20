@@ -13,14 +13,14 @@ WARNING_HEADER = [
     "-->"
 ]
 TABLE_HEADER = [
-    "| **notebook** | **open in colab** | **open in kaggle** | **roboflow blog** | **youtube** | **repository** |",
-    "|:-------------|:---------:|:----------:|:------------:|:-----------:|:--------------:|"
+    "| **notebook** | **open in colab or kaggle** | **complementary materials** | **repository** |",
+    "|:-------------|:---------------------------:|:---------------------------:|:--------------:|"
 ]
 
 NOTEBOOK_LINK_PATTERN = "[{}]({}/{})"
 OPEN_IN_COLAB_BADGE_PATTERN = "[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/{}/{})"
 OPEN_IN_KAGGLE_BADGE_PATTERN = "[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src={}/{})"
-ROBOFLOW_BADGE_PATTERN = "[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow.svg)]({})"
+ROBOFLOW_BADGE_PATTERN = "[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)]({})"
 YOUTUBE_BADGE_PATTERN = "[![YouTube](https://badges.aleen42.com/src/youtube.svg)]({})"
 GITHUB_BADGE_PATTERN = "[![YouTube](https://badges.aleen42.com/src/github.svg)]({})"
 
@@ -56,7 +56,7 @@ class TableEntry:
         roboflow_badge = ROBOFLOW_BADGE_PATTERN.format(self.roboflow_blogpost_path)
         youtube_badge = YOUTUBE_BADGE_PATTERN.format(self.youtube_video_path)
         github_badge = GITHUB_BADGE_PATTERN.format(self.github_repository_path)
-        return f"| {notebook_link} | {open_in_colab_badge} | {open_in_kaggle_badge} | {roboflow_badge} | {youtube_badge} | {github_badge} |"
+        return f"| {notebook_link} | {open_in_colab_badge} {open_in_kaggle_badge} | {roboflow_badge} {youtube_badge} | {github_badge} |"
 
 
 def read_lines_from_file(path: str) -> List[str]:
