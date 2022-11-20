@@ -1,3 +1,4 @@
 notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path
 train-yolov5-classification-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset, https://www.youtube.com/watch?v=MdF6x6ZmLAY, https://github.com/ultralytics/yolov5
+train-yolov7-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial, https://www.youtube.com/watch?v=5nsmXLyDaU4, https://github.com/WongKinYiu/yolov7
 train-detectron2-segmentation-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-detectron2, https://youtu.be/e8LPflX0nwQ, https://github.com/facebookresearch/detectron2
