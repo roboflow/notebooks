@@ -11,9 +11,9 @@
 
 ## 👋 hello
 
-Over the years we created dozens of Computer Vision tutorials. This repository contains Jupyter Notebooks linked to
-Roboflow Blogpost and used in our YouTube videos. Please keep in mind that repository is still under construction 🚧.
-In the meantime, you can find a full list of our tutorials [here](https://models.roboflow.com/).
+Over the years we have created dozens of Computer Vision tutorials. This repository contains Jupyter Notebooks that 
+we've featured in our blog posts and YouTube videos. Please keep in mind that repository is still under construction 
+🚧 In the meantime, you can find a full list of our tutorials [here](https://models.roboflow.com/).
 
 ## 🚀 tutorials
 
