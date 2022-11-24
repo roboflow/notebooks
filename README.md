@@ -46,11 +46,9 @@ we've featured in our blog posts and YouTube videos. Please keep in mind that re
 Almost every week we create tutorials showing you the hottest models in Computer Vision. 🔥 
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
-<br>
-
 <p align="center">
     <a href="https://youtu.be/_Zr1pOi7Chw">
-        <img style="max-width: 80%" src="https://user-images.githubusercontent.com/26109316/203776646-fd550526-4cbb-452a-91a9-2107651e6cc2.png" alt="roboflow logo">
+        <img src="https://user-images.githubusercontent.com/26109316/203776646-fd550526-4cbb-452a-91a9-2107651e6cc2.png" alt="roboflow logo">
     </a>
 </p>
 
