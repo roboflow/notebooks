@@ -9,11 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
       - uses: actions/setup-python@v4
         with:
           python-version: 3.9
-      - run: python automation/autogenerate_notebooks_table.py
-      - run: |
+      - name: Rebuild notebooks table in project README.md
+        run: python automation/autogenerate_notebooks_table.py
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
+      - name: Update changes in GitHub repository
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
           git config --global user.name 'SkalskiP'
           git config --global user.email 'SkalskiP@users.noreply.github.com'
           git commit -am "🤖 hello friend, the notebooks table has been rebuilt"
