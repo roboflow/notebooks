@@ -1,0 +1,20 @@
+
+name: rebuild readme.md notebooks table on pr merge to main
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+      - run: python automation/autogenerate_notebooks_table.py
+      - run: |
+          git config --global user.name 'SkalskiP'
+          git config --global user.email 'SkalskiP@users.noreply.github.com'
+          git commit -am "🤖 hello friend, the notebooks table has been rebuilt"
+          git push
