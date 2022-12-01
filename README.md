@@ -77,7 +77,7 @@ jupyter notebook
 ## ☁️ run in sagemaker studio lab
 
 You can now open our tutorial notebooks in [Amazon SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) -
-a free machine learning development environment that provides the compute, storage, and security—all at no cost—for 
+a free machine learning development environment that provides the compute, storage, and security—all at no cost—for
 anyone to learn and experiment with ML.
 
 |                                                                          **notebook**                                                                          |                                                                                                                **open in sagemaker studio lab**                                                                                                                |
