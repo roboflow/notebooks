@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="142" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="142" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#fff" d="M0 0h25v20H0z"/>
+        <path fill="#7c00ff" d="M25 0h117v20H25z"/>
+        <path fill="url(#b)" d="M0 0h142v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0idXJsKCNhKSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjUgMjkuMTloMTEuNjY3VjEwLjg1OEgyNS4wMDF2MTguMzM0Wm0tMS42NjYgMFYxMC44NThoLTIuNXYzLjMzNGguODM0djEuNjY2aC0uODM0djMuMzM0aC44MzR2MS42NjZoLS44MzR2My4zMzRoLjgzNHYxLjY2NmgtLjgzNHYzLjMzNGgyLjVabTE1LTE5LjE2NnYyMGMwIC40Ni0uMzcyLjgzMy0uODMzLjgzM0gyMGEuODMzLjgzMyAwIDAgMS0uODM0LS44MzN2LTQuMTY3aC0uODMzdi0xLjY2NmguODM0di0zLjMzNGgtLjgzNHYtMS42NjZoLjgzNHYtMy4zMzRoLS44MzR2LTEuNjY2aC44MzR2LTQuMTY3YzAtLjQ2LjM3Mi0uODM0LjgzMy0uODM0aDE3LjVjLjQ2IDAgLjgzMy4zNzQuODMzLjgzNFptLTE5LjE2NyAyMi41aDEuNjY3djEuOThjMCAuMzAyLS4xNjMuNTgtLjQyNy43MjhMMTUuNzQgMzcuODRhLjgzMy44MzMgMCAwIDEtLjgzNi0uMDE0bC04LjY2Ny01LjIxNWEuODM0LjgzNCAwIDAgMS0uNDAzLS43MTV2LTUuNDMybC0zLjctMS44MDlhLjgzNS44MzUgMCAwIDEtLjQ2Ny0uNzQ4VjE1LjQ0YzAtLjMwMS4xNjQtLjU4LjQyNy0uNzI3bDMuNzQtMi4wOVY2Ljg1OGMwLS4zLjE2LS41NzYuNDIxLS43MjRsOC4wNzctNC42MDhhLjgzMi44MzIgMCAwIDEgLjc4OC0uMDJsNS4yNTYgMi42NjFjLjI4LjE0MS40NTcuNDMuNDU3Ljc0M2wuMDAxIDIuNjEzaC0xLjY2NmwtLjAwMS0yLjEtNC4zOTktMi4yMjctMS40MzQuODE4djYuMDFoLTEuNjY2di01LjA2TDcuNSA3LjM0MnY0LjY4bDMuODY5IDIuMzQ1TDE1IDEyLjA3MlY4Ljc1NGgxLjY2OHYzLjc3N2EuODMzLjgzMyAwIDAgMS0uMzg5LjcwNGwtMy43NzggMi4zODh2Mi43MzRoMy4zMzN2MS41OWgtMy45MTNMNy45MzcgMjIuNGwtLjg3NC0xLjQyIDMuNzcxLTIuMzIxdi0yLjY3bC0zLjY1OS0yLjIxN2EuNzMxLjczMSAwIDAgMS0uMS4wNjdsLTMuNzQgMi4wOS0uMDAyIDIuNTM4IDMuNzA1LTIuNDcuOTI1IDEuMzg3LTQuNjMgMy4wODYuMDAxIDIuOTE3IDMuNyAxLjgwOGMuMDQ2LjAyMy4wODQuMDU1LjEyNS4wODVsMi4zNDItMS43NTYgMSAxLjMzMy0zIDIuMjV2NC4zMThsMy44NSAyLjMxOCAxLjE1LS45NnYtNi45MjZoMS42Njd2NS41MzhsMi0xLjY2NyAxLjA2OCAxLjI4LTQuMzczIDMuNjQ1IDIuNDg2IDEuNDk2IDMuODE5LTIuMTM0di0xLjQ5MVoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjIwIiB4Mj0iMjAiIHkxPSIxLjQxNyIgeTI9IjM3Ljk0NSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiM3QzAwRkYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzMTAwRkYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4="/>
+        <text x="82.5" y="14.6" fill="#010101" fill-opacity=".3">SageMaker Studio</text>
+        <text x="82.5" y="14">SageMaker Studio</text>
+    </g>
+</svg>
