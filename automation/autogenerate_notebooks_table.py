@@ -13,7 +13,7 @@ WARNING_HEADER = [
     "-->"
 ]
 TABLE_HEADER = [
-    "| **notebook** | **open in colab / kaggle / sagemaker lab** | **complementary materials** | **repository** |",
+    "| **notebook** | **open in colab / kaggle / sagemaker studio lab** | **complementary materials** | **repository** |",
     "|:------------:|:------------------------------------:|:---------------------------:|:--------------:|"
 ]
 
