@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, should_open_in_sagemaker_labs
+RF100 Object Detection Model Benchmarking, how-to-use-rf100.ipynb, https://blog.roboflow.com/roboflow-100, https://youtu.be/jIgZMr-PBMo, https://github.com/roboflow-ai/roboflow-100-benchmark, False
 YOLOv7 PyTorch Object Detection, train-yolov7-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial, https://www.youtube.com/watch?v=5nsmXLyDaU4, https://github.com/WongKinYiu/yolov7, False
 YOLOv7 PyTorch Object Detection OpenVINO + TorchORT, train-yolov7-object-detection-on-custom-data-openvino-torch-ort.ipynb, https://blog.roboflow.com/accelerate-pytorch-openvino-torch-ort, ,https://github.com/roboflow-ai/yolov7, False
 MT-YOLOv6 PyTorch Object Detection, train-yolov6-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-yolov6-on-a-custom-dataset, https://www.youtube.com/watch?v=fFCWrMFH2UY, https://github.com/meituan/YOLOv6, False
