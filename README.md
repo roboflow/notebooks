@@ -67,7 +67,7 @@ git clone git@github.com:roboflow-ai/notebooks.git
 cd notebooks
 
 # setup python environment and activate it
-python3 -m venv env
+python3 -m venv venv
 source venv/bin/activate
 
 # install and run jupyter notebook
