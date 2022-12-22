@@ -1,0 +1,21 @@
+name: Issue greetings
+
+on: [issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Hello @${{ github.actor }}, thank you for leaving an issue on Roboflow Notebooks.
+
+            ## 🐞 Bug reports
+
+            If you are filing a bug report, please be as detailed as possible. This will help us more easily diagnose and resolve the problem you are facing.
+
+            ## 💬 Get in touch
+
+            Do you have more questions about Roboflow that we haven't responded to yet? Feel free to ask them on the [Roboflow Discuss](https://discuss.roboflow.com) forum. Our developer advocates and community team actively respond to questions there.
