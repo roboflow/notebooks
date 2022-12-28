@@ -14,8 +14,12 @@ jobs:
 
             ## 🐞 Bug reports
 
-            If you are filing a bug report, please be as detailed as possible. This will help us more easily diagnose and resolve the problem you are facing.
+            If you are filing a bug report, please be as detailed as possible. This will help us more easily diagnose and resolve the problem you are facing. To learn more about contributing, check out our [Contributing Guidelines](https://github.com/roboflow/notebooks/blob/main/CONTRIBUTING.md).
+
+            If you require support with custom code that is not part of Roboflow Notebooks, please reach out on the [Roboflow Forum](https://discuss.roboflow.com) or on the [GitHub Discussions page](https://github.com/roboflow/notebooks/discussions) associated with this repository.
 
             ## 💬 Get in touch
 
             Do you have more questions about Roboflow that we haven't responded to yet? Feel free to ask them on the [Roboflow Discuss](https://discuss.roboflow.com) forum. Our developer advocates and community team actively respond to questions there.
+
+            To ask questions about Notebooks, head over to the [GitHub Discussions](https://github.com/roboflow/notebooks/discussions) section of this repository.
