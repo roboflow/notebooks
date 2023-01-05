@@ -5,7 +5,9 @@ We love your input! We want to make contributing to Roboflow Notebooks as easy a
 - When creating new notebook, make sure to use our [template](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/_train-template.ipynb) as starting point. It contains all the elements that we would like to include in our notebooks from now on.
 - When adding or editing notebooks, make sure to specify the versions of pip packages 📦 you are using.
 
-Please keep in mind that repository is still under construction 🚧. We will add more contribution guidelines soon.
+## Discussions
+Have a new request for a tutorial in mind? Is there a notebook or project you find useful, or want more insight on? [Visit the Discussions page](https://github.com/roboflow/notebooks/discussions) to chime in.
+- **Have a Feature Request?**: Please provide as much detail as possible on the [Discussions page](https://github.com/roboflow/notebooks/discussions). Pseudocode and/or links to supporting guides or documentation are very helpful.
 
 ## Submitting a Bug Report 🐛
 
@@ -37,7 +39,6 @@ If you believe your problem meets all of the above criteria, please close this i
 a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) to help us better
 understand and diagnose your problem.
 
-### How to File a Bug Report (VIDEO)
 [![Roboflow Support: Filing Bug Reports](https://img.youtube.com/vi/KE_SsEPaR_4/0.jpg)](https://www.youtube.com/watch?v=KE_SsEPaR_4)
 
 ## License
