@@ -2,22 +2,22 @@
   <p>
     <a align="center" href="" target="_blank">
       <img
-        width="850" 
+        width="850"
         src="https://raw.githubusercontent.com/roboflow/notebooks/test-top-banner/assets/roboflow-notebooks-banner.png"
       >
     </a>
   </p>
   <br>
-  
+
   <a href="https://blog.roboflow.com">
-    <img 
-      src="https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg" 
+    <img
+      src="https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg"
       alt="Roboflow Blog"
     >
   </a>
   <a href="https://www.youtube.com/@Roboflow">
-    <img 
-      src="https://badges.aleen42.com/src/youtube.svg" 
+    <img
+      src="https://badges.aleen42.com/src/youtube.svg"
       alt="YouTube"
     >
   </a>
