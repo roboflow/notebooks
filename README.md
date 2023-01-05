@@ -1,13 +1,27 @@
-[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.com/)
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@Roboflow)
-
-<h1 align="center">Roboflow Notebooks</h1>
-
-<p align="center">
-    </br>
-    <img width="100" src="https://github.com/roboflow-ai/notebooks/raw/main/assets/roboflow_logomark_color.svg" alt="roboflow logo">
-    </br>
-</p>
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850" 
+        src="https://raw.githubusercontent.com/roboflow/notebooks/test-top-banner/assets/roboflow-notebooks-banner.png"
+      >
+    </a>
+  </p>
+  <br>
+  
+  <a href="https://blog.roboflow.com">
+    <img 
+      src="https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg" 
+      alt="Roboflow Blog"
+    >
+  </a>
+  <a href="https://www.youtube.com/@Roboflow">
+    <img 
+      src="https://badges.aleen42.com/src/youtube.svg" 
+      alt="YouTube"
+    >
+  </a>
+</div>
 
 ## 👋 hello
 
