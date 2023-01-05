@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850" 
-        src="https://ik.imagekit.io/roboflow/notebooks/template/bannertest2-2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672932710194"
+        src="https://raw.githubusercontent.com/roboflow/notebooks/test-top-banner/assets/roboflow-notebooks-banner.png"
       >
     </a>
   </p>
