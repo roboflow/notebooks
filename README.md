@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://raw.githubusercontent.com/roboflow/notebooks/test-top-banner/assets/roboflow-notebooks-banner.png"
+        src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-notebooks-banner.png"
       >
     </a>
   </p>
