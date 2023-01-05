@@ -39,7 +39,9 @@ If you believe your problem meets all of the above criteria, please close this i
 a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) to help us better
 understand and diagnose your problem.
 
-[![Roboflow Support: Filing Bug Reports](https://img.youtube.com/vi/KE_SsEPaR_4/0.jpg)](https://www.youtube.com/watch?v=KE_SsEPaR_4)
+**Watch the video linked below for step-by-step instructions**
+
+[![Roboflow Support: Filing Bug Reports](assets/bug-report.png)](https://www.youtube.com/watch?v=KE_SsEPaR_4)
 
 ## License
 
