@@ -120,6 +120,10 @@ find all the information you need.
 
 We are here for you, so don't hesitate to [reach out](https://github.com/roboflow-ai/notebooks/discussions).
 
+## about roboflow
+
+Use the links below to learn more about Roboflow.
+
 <div align="center">
     <a href="https://youtube.com/roboflow">
         <img src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652" width="4%"/>
@@ -139,5 +143,9 @@ We are here for you, so don't hesitate to [reach out](https://github.com/roboflo
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
     <a href="https://disuss.roboflow.com">
         <img src="https://media.roboflow.com/notebooks/template/icons/purple/forum.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633584" width="4%" />
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://blog.roboflow.com">
+        <img src="https://media.roboflow.com/notebooks/template/icons/purple/blog.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633605" width="4%" />
+    </a>
     </a>
 </div>
