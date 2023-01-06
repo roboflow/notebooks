@@ -120,9 +120,9 @@ find all the information you need.
 
 We are here for you, so don't hesitate to [reach out](https://github.com/roboflow-ai/notebooks/discussions).
 
-## about roboflow
+<h2 align="center">about roboflow</h2>
 
-Use the links below to learn more about Roboflow.
+<p align="center">Use the links below to learn more about Roboflow.</p>
 
 <div align="center">
     <a href="https://youtube.com/roboflow">
