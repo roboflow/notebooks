@@ -9,18 +9,50 @@
   </p>
   <br>
 
-  <a href="https://blog.roboflow.com">
-    <img
-      src="https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg"
-      alt="Roboflow Blog"
-    >
-  </a>
-  <a href="https://www.youtube.com/@Roboflow">
-    <img
-      src="https://badges.aleen42.com/src/youtube.svg"
-      alt="YouTube"
-    >
-  </a>
+  <div align="center">
+      <a href="https://youtube.com/roboflow">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
+            width="3%"
+          />
+      </a>
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://roboflow.com">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/roboflow-app.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949746649"
+            width="3%"
+          />
+      </a>
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://www.linkedin.com/company/roboflow-ai/">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
+            width="3%"
+          />
+      </a>
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://docs.roboflow.com">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/knowledge.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634511"
+            width="3%"
+          />
+      </a>
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://disuss.roboflow.com">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/forum.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633584" 
+            width="3%" 
+          />
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://blog.roboflow.com">
+          <img 
+            src="https://media.roboflow.com/notebooks/template/icons/purple/blog.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633605" 
+            width="3%" 
+          />
+      </a>
+      </a>
+  </div>
+
 </div>
 
 ## 👋 hello
@@ -119,33 +151,3 @@ a peek at our [contribution guide](https://github.com/roboflow-ai/notebooks/blob
 find all the information you need.
 
 We are here for you, so don't hesitate to [reach out](https://github.com/roboflow-ai/notebooks/discussions).
-
-<h2 align="center">about roboflow</h2>
-
-<p align="center">Use the links below to learn more about Roboflow.</p>
-
-<div align="center">
-    <a href="https://youtube.com/roboflow">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652" width="4%"/>
-    </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://roboflow.com">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/roboflow-app.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949746649" width="4%"/>
-    </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://www.linkedin.com/company/roboflow-ai/">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691" width="4%"/>
-    </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://docs.roboflow.com">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/knowledge.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634511" width="4%"/>
-    </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://disuss.roboflow.com">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/forum.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633584" width="4%" />
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://blog.roboflow.com">
-        <img src="https://media.roboflow.com/notebooks/template/icons/purple/blog.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633605" width="4%" />
-    </a>
-    </a>
-</div>
