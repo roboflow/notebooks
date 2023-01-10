@@ -102,11 +102,10 @@ Almost every week we create tutorials showing you the hottest models in Computer
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
 <p align="center">
-    <a href="https://youtu.be/QCG8QMhga9k">
-        <img src="https://user-images.githubusercontent.com/26109316/206766054-1ce3f806-00db-4309-9057-e5f827383630.jpg" alt="latest-roboflow-tutorial">
+    <a href="https://youtu.be/wuZtUMEiKWY">
+        <img src="https://user-images.githubusercontent.com/26109316/211527823-cdc64f96-9247-42eb-9a9e-98605ffd9f25.jpg" alt="latest-roboflow-tutorial">
     </a>
 </p>
-
 
 ## 💻 run locally
 
