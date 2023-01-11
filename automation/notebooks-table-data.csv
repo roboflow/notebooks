@@ -1,6 +1,7 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, should_open_in_sagemaker_labs, readme_section
 YOLOv8 PyTorch Object Detection, train-yolov8-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset, https://youtu.be/wuZtUMEiKWY, https://github.com/ultralytics/ultralytics, True, models
 YOLOv8 PyTorch Instance Segmentation, train-yolov8-instance-segmentation-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, True, models
+YOLOv8 PyTorch Classification, train-yolov8-classification-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, True, models
 YOLOv7 PyTorch Object Detection, train-yolov7-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial, https://www.youtube.com/watch?v=5nsmXLyDaU4, https://github.com/WongKinYiu/yolov7, False, models
 YOLOv7 PyTorch Instance Segmentation, train-yolov7-instance-segmentation-on-custom-data.ipynb, https://blog.roboflow.com/train-yolov7-instance-segmentation-on-custom-data, https://www.youtube.com/watch?v=vFGxM2KLs10, https://github.com/WongKinYiu/yolov7, True, models
 YOLOv7 PyTorch Object Detection OpenVINO + TorchORT, train-yolov7-object-detection-on-custom-data-openvino-torch-ort.ipynb, https://blog.roboflow.com/accelerate-pytorch-openvino-torch-ort, ,https://github.com/roboflow-ai/yolov7, False, models
