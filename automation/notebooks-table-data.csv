@@ -24,3 +24,4 @@ Detect and Count Objects in Polygon Zone with YOLOv5 / YOLOv8 / Detectron2 + Sup
 Track and Count Vehicles with YOLOv8 + ByteTRACK + Supervision, how-to-track-and-count-vehicles-with-yolov8.ipynb, https://blog.roboflow.com/yolov8-tracking-and-counting/, https://youtu.be/OS5qI9YBkfk, https://github.com/roboflow/supervision, True, skills
 Football Players Tracking with YOLOv5 + ByteTRACK, how-to-track-football-players.ipynb, https://blog.roboflow.com/track-football-players, https://youtu.be/QCG8QMhga9k, https://github.com/ifzhang/ByteTrack, True, skills
 Create Segmentation Masks with Roboflow, how-to-generate-segmentation-mask-with-roboflow.ipynb, https://blog.roboflow.com/how-to-create-segmentation-masks-with-roboflow, , , False, skills
+How to Use PolygonZone and Roboflow Supervision, how-to-use-polygonzone-annotate-and-supervision.ipynb, https://blog.roboflow.com/polygonzone/, , , False, skills
