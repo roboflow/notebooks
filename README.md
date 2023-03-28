@@ -108,8 +108,8 @@ Almost every week we create tutorials showing you the hottest models in Computer
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
 <p align="center">
-    <a href="https://youtu.be/OS5qI9YBkfk">
-        <img src="https://user-images.githubusercontent.com/26109316/213702005-ddd568f0-b902-46c2-9af9-e6ff33db23bf.jpg" alt="latest-roboflow-tutorial">
+    <a href="https://youtu.be/cMa77r3YrDk">
+        <img src="https://user-images.githubusercontent.com/26109316/228355667-eb98f57f-b17e-4771-a7f8-3b7003c7aa30.jpg" alt="latest-roboflow-tutorial">
     </a>
 </p>
 
