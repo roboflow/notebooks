@@ -112,14 +112,14 @@ Almost every week we create tutorials showing you the hottest models in Computer
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
 <p align="center">
-    <a href="https://youtu.be/D-D6ZmadzPE">
-        <img src="https://user-images.githubusercontent.com/26109316/231295569-127c44be-70db-41d7-931f-850eeb66d606.jpg" alt="segment-anything-model-tutorial">
+    <a href="https://youtu.be/oEQYStnF2l8">
+        <img src="https://user-images.githubusercontent.com/26109316/233460319-f7aa37e9-4971-4d55-b5cb-31face95441f.jpg" alt="automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://youtu.be/cMa77r3YrDk">
-        <img src="https://user-images.githubusercontent.com/26109316/229118076-602c7200-3245-49f4-8565-4e9b83ca9332.jpg" alt="grounding-dino-tutorial">
+    <a href="https://youtu.be/D-D6ZmadzPE">
+        <img src="https://user-images.githubusercontent.com/26109316/231295569-127c44be-70db-41d7-931f-850eeb66d606.jpg" alt="segment-anything-model-tutorial">
     </a>
 </p>
 
