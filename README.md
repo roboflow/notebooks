@@ -66,7 +66,7 @@ we've featured in our blog posts and YouTube videos. Please keep in mind that re
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
-## 🚀 model tutorials
+## 🚀 model tutorials (24 notebooks)
 | **notebook** | **open in colab / kaggle / sagemaker studio lab** | **complementary materials** | **repository / paper** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
 | [YOLO-NAS Object Detection](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb) [![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb) | [![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/V-H3eoPUnA8) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md) |
@@ -93,7 +93,7 @@ we've featured in our blog posts and YouTube videos. Please keep in mind that re
 | [Resnet34 fast.ai Classification](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-resnet34-classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-resnet34-classification.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-resnet34-classification.ipynb)  | [![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.com/how-to-train-a-custom-resnet34-model) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=93kXzUOiYY4) |  |
 | [OpenAI Clip Classification](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/how-to-use-openai-clip-classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-use-openai-clip-classification.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/how-to-use-openai-clip-classification.ipynb)  | [![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.com/how-to-use-openai-clip) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8o701AEoZ8I) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/CLIP) [![arXiv](https://img.shields.io/badge/arXiv-2103.00020-b31b1b.svg)](https://arxiv.org/abs/2103.00020)|
 | [YOLOv4-tiny Darknet Object Detection](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov4-tiny-object-detection-on-custom-data.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov4-tiny-object-detection-on-custom-data.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov4-tiny-object-detection-on-custom-data.ipynb)  | [![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.ai/train-yolov4-tiny-on-custom-data-lighting-fast-detection) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=NTnZgLsk_DA) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/roboflow-ai/darknet) [![arXiv](https://img.shields.io/badge/arXiv-2011.04244-b31b1b.svg)](https://arxiv.org/abs/2011.04244)|
-## 📸 computer vision skills
+## 📸 computer vision skills (10 notebooks)
 | **notebook** | **open in colab / kaggle / sagemaker studio lab** | **complementary materials** | **repository / paper** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
 | [Image Embeddings Analysis - Part 1](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/image_embeddings_analysis_part_1.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/image_embeddings_analysis_part_1.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/image_embeddings_analysis_part_1.ipynb) [![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/image_embeddings_analysis_part_1.ipynb) |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/YxJkE6FvGF4) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/CLIP) [![arXiv](https://img.shields.io/badge/arXiv-2103.00020-b31b1b.svg)](https://arxiv.org/abs/2103.00020)|
@@ -113,17 +113,16 @@ we've featured in our blog posts and YouTube videos. Please keep in mind that re
 Almost every week we create tutorials showing you the hottest models in Computer Vision. 🔥
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
-<p align="center">
-    <a href="https://youtu.be/oEQYStnF2l8">
-        <img src="https://user-images.githubusercontent.com/26109316/233460319-f7aa37e9-4971-4d55-b5cb-31face95441f.jpg" alt="automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://youtu.be/D-D6ZmadzPE">
-        <img src="https://user-images.githubusercontent.com/26109316/231295569-127c44be-70db-41d7-931f-850eeb66d606.jpg" alt="segment-anything-model-tutorial">
-    </a>
-</p>
+<p align="left">
+<a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/ae1ca38e-40b7-4b35-8582-e8ea5de3806e" alt="Accelerate Image Annotation with SAM and Grounding DINO" width="300px" align="left" /></a>
+<a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><strong>Accelerate Image Annotation with SAM and Grounding DINO</strong></a>
+<div><strong>Created: 20 Apr 2023</strong> | <strong>Updated: 20 Apr 2023</strong></div>
+<br/> Discover how to speed up your image annotation process using Grounding DINO and Segment Anything Model (SAM). Learn how to convert object detection datasets into instance segmentation datasets, and see the potential of using these models to automatically annotate your datasets for real-time detectors like YOLOv8... </p> <br/>
+<p align="left">
+<a href="https://youtu.be/oEQYStnF2l8" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/6913ff11-53c6-4341-8d90-eaff3023c3fd" alt="SAM - Segment Anything Model by Meta AI: Complete Guide" width="300px" align="left" /></a>
+<a href="https://youtu.be/oEQYStnF2l8" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><strong>SAM - Segment Anything Model by Meta AI: Complete Guide</strong></a>
+<div><strong>Created: 11 Apr 2023</strong> | <strong>Updated: 11 Apr 2023</strong></div>
+<br/> Discover the incredible potential of Meta AI's Segment Anything Model (SAM)! We dive into SAM, an efficient and promptable model for image segmentation, which has revolutionized computer vision tasks. With over 1 billion masks on 11M licensed and privacy-respecting images, SAM's zero-shot performance is often competitive with or even superior to prior fully supervised results... </p> 
 
 ## 💻 run locally
 

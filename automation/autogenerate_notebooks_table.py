@@ -21,8 +21,8 @@ TABLE_HEADER = [
     "|:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|"
 ]
 
-MODELS_SECTION_HEADER = "## 🚀 model tutorials"
-SKILLS_SECTION_HEADER = "## 📸 computer vision skills"
+MODELS_SECTION_HEADER = "## 🚀 model tutorials ({} notebooks)"
+SKILLS_SECTION_HEADER = "## 📸 computer vision skills ({} notebooks)"
 
 NOTEBOOK_LINK_PATTERN = "[{}]({}/{})"
 OPEN_IN_COLAB_BADGE_PATTERN = "[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/{}/{})"
@@ -154,7 +154,7 @@ if __name__ == "__main__":
         if entry.readme_section == READMESection.SKILLS
     ]
     table_lines = WARNING_HEADER + \
-                  [MODELS_SECTION_HEADER] + TABLE_HEADER + models_lines + \
-                  [SKILLS_SECTION_HEADER] + TABLE_HEADER + skills_lines
+                  [MODELS_SECTION_HEADER.format(len(models_lines))] + TABLE_HEADER + models_lines + \
+                  [SKILLS_SECTION_HEADER.format(len(skills_lines))] + TABLE_HEADER + skills_lines
     readme_lines = inject_markdown_table_into_readme(readme_lines=readme_lines, table_lines=table_lines)
     save_lines_to_file(path=args.readme_path, lines=readme_lines)
