@@ -1,5 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
-YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, , https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
+YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset, https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
 Segment Anything Model, how-to-segment-anything-with-sam.ipynb, https://blog.roboflow.com/how-to-use-segment-anything-model-sam, https://youtu.be/D-D6ZmadzPE, https://github.com/facebookresearch/segment-anything, 2304.02643, True, models
 Zero-Shot Object Detection with Grounding DINO, zero-shot-object-detection-with-grounding-dino.ipynb, https://blog.roboflow.com/grounding-dino-zero-shot-object-detection, https://youtu.be/cMa77r3YrDk, https://github.com/IDEA-Research/GroundingDINO, 2303.05499, True, models
 DETR Transformer Object Detection, train-huggingface-detr-on-custom-dataset.ipynb, , https://youtu.be/AM8D4j9KoaU, https://github.com/facebookresearch/detr, 2005.12872, True, models
