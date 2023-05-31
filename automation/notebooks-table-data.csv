@@ -3,6 +3,7 @@ YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.
 Segment Anything Model, how-to-segment-anything-with-sam.ipynb, https://blog.roboflow.com/how-to-use-segment-anything-model-sam, https://youtu.be/D-D6ZmadzPE, https://github.com/facebookresearch/segment-anything, 2304.02643, True, models
 Zero-Shot Object Detection with Grounding DINO, zero-shot-object-detection-with-grounding-dino.ipynb, https://blog.roboflow.com/grounding-dino-zero-shot-object-detection, https://youtu.be/cMa77r3YrDk, https://github.com/IDEA-Research/GroundingDINO, 2303.05499, True, models
 DETR Transformer Object Detection, train-huggingface-detr-on-custom-dataset.ipynb, , https://youtu.be/AM8D4j9KoaU, https://github.com/facebookresearch/detr, 2005.12872, True, models
+DINOv2 Image Retrieval, dinov2-image-retrieval.ipynb, , , https://github.com/facebookresearch/dinov2/, 2304.07193, False, skills
 DINOv2 Image Classification, dinov2-classification.ipynb, , , https://github.com/facebookresearch/dinov2/ , 2304.07193,  False, models
 YOLOv8 Object Detection, train-yolov8-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset, https://youtu.be/wuZtUMEiKWY, https://github.com/ultralytics/ultralytics, , True, models
 YOLOv8 Instance Segmentation, train-yolov8-instance-segmentation-on-custom-dataset.ipynb, , https://youtu.be/pFiGSrRtaU4, https://github.com/ultralytics/ultralytics, , True, models
