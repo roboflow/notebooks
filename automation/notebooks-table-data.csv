@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
+RTMDet Object Detection, train-rtmdet-object-detection-on-custom-data.ipynb, , , https://github.com/open-mmlab/mmdetection, 2212.07784, True, models
 Fast Segment Anything Model (FastSAM), how-to-segment-anything-with-fast-sam.ipynb, https://blog.roboflow.com/how-to-use-fastsam, , https://github.com/CASIA-IVA-Lab/FastSAM, 2306.12156, True, models
 YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset, https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
 Segment Anything Model (SAM), how-to-segment-anything-with-sam.ipynb, https://blog.roboflow.com/how-to-use-segment-anything-model-sam, https://youtu.be/D-D6ZmadzPE, https://github.com/facebookresearch/segment-anything, 2304.02643, True, models
