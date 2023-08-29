@@ -183,3 +183,63 @@ a peek at our [contribution guide](https://github.com/roboflow-ai/notebooks/blob
 find all the information you need.
 
 We are here for you, so don't hesitate to [reach out](https://github.com/roboflow-ai/notebooks/discussions).
+
+## 💻 explore more Roboflow open source projects
+
+|Project | Description|
+|:---|:---|
+|[supervision](https://roboflow.com/supervision) | General-purpose utilities for use in computer vision projects, from predictions filtering and display to object tracking to model evaluation.
+|[Autodistill](https://github.com/autodistill/autodistill) | Automatically label images for use in training computer vision models. |
+|[Inference](https://github.com/roboflow/inference) | An easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
+|[Notebooks](https://roboflow.com/notebooks) (this project) | Tutorials for computer vision tasks, from training state-of-the-art models to tracking objects to counting objects in a zone.
+|[Collect](https://github.com/roboflow/roboflow-collect) | Automated, intelligent data collection powered by CLIP.
+
+<br>
+
+<div align="center">
+
+  <div align="center">
+      <a href="https://youtube.com/roboflow">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
+            width="3%"
+          />
+      </a>
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="3%"/>
+      <a href="https://roboflow.com">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/roboflow-app.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949746649"
+            width="3%"
+          />
+      </a>
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="3%"/>
+      <a href="https://www.linkedin.com/company/roboflow-ai/">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
+            width="3%"
+          />
+      </a>
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="3%"/>
+      <a href="https://docs.roboflow.com">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/knowledge.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634511"
+            width="3%"
+          />
+      </a>
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="3%"/>
+      <a href="https://disuss.roboflow.com">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/forum.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633584"
+            width="3%"
+          />
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="3%"/>
+      <a href="https://blog.roboflow.com">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/blog.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633605"
+            width="3%"
+          />
+      </a>
+      </a>
+  </div>
+
+</div>
