@@ -187,18 +187,6 @@ find all the information you need.
 
 We are here for you, so don't hesitate to [reach out](https://github.com/roboflow-ai/notebooks/discussions).
 
-## 💻 explore more Roboflow open source projects
-
-|Project | Description|
-|:---|:---|
-|[supervision](https://roboflow.com/supervision) | General-purpose utilities for use in computer vision projects, from predictions filtering and display to object tracking to model evaluation.
-|[Autodistill](https://github.com/autodistill/autodistill) | Automatically label images for use in training computer vision models. |
-|[Inference](https://github.com/roboflow/inference) | An easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
-|[Notebooks](https://roboflow.com/notebooks) (this project) | Tutorials for computer vision tasks, from training state-of-the-art models to tracking objects to counting objects in a zone.
-|[Collect](https://github.com/roboflow/roboflow-collect) | Automated, intelligent data collection powered by CLIP.
-
-<br>
-
 <div align="center">
 
   <div align="center">
