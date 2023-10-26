@@ -40,4 +40,5 @@ Track and Count Vehicles with YOLOv8 + ByteTRACK + Supervision, how-to-track-and
 Football Players Tracking with YOLOv5 + ByteTRACK, how-to-track-football-players.ipynb, https://blog.roboflow.com/track-football-players, https://youtu.be/QCG8QMhga9k, https://github.com/ifzhang/ByteTrack, 2110.06864, True, skills
 Create Segmentation Masks with Roboflow, how-to-generate-segmentation-mask-with-roboflow.ipynb, https://blog.roboflow.com/how-to-create-segmentation-masks-with-roboflow, , , , False, skills
 How to Use PolygonZone and Roboflow Supervision, how-to-use-polygonzone-annotate-and-supervision.ipynb, https://blog.roboflow.com/polygonzone/, , , , False, skills
+Train a Package Detector With Two Labeled Images, train-package-detector-two-labeled-images.ipynb, https://blog.roboflow.com/package-detector/, , https://github.com/autodistill/autodistill-seggpt, , False, skills
 Image-to-Image Search with CLIP and faiss, image-to-image-search-clip-faiss.ipynb, https://blog.roboflow.com/clip-image-search-faiss/, , , , False, skills
