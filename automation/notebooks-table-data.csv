@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
+DINO-GPT-4V Object Detection, dino-gpt4v-autodistill.ipynb, https://blog.roboflow.com/dino-gpt-4v/, , , , False, models
 RTMDet Object Detection, train-rtmdet-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-rtmdet-on-a-custom-dataset, https://youtu.be/5kgWyo6Sg4E, https://github.com/open-mmlab/mmdetection, 2212.07784, True, models
 Fast Segment Anything Model (FastSAM), how-to-segment-anything-with-fast-sam.ipynb, https://blog.roboflow.com/how-to-use-fastsam, https://youtu.be/yHNPyqazYYU, https://github.com/CASIA-IVA-Lab/FastSAM, 2306.12156, True, models
 YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset, https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
