@@ -1,5 +1,4 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
-DINO-GPT-4V Object Detection, dino-gpt4v-autodistill.ipynb, https://blog.roboflow.com/dino-gpt-4v/, , , , False, models
 RTMDet Object Detection, train-rtmdet-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-rtmdet-on-a-custom-dataset, https://youtu.be/5kgWyo6Sg4E, https://github.com/open-mmlab/mmdetection, 2212.07784, True, models
 Fast Segment Anything Model (FastSAM), how-to-segment-anything-with-fast-sam.ipynb, https://blog.roboflow.com/how-to-use-fastsam, https://youtu.be/yHNPyqazYYU, https://github.com/CASIA-IVA-Lab/FastSAM, 2306.12156, True, models
 YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset, https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
@@ -27,6 +26,7 @@ YOLOX Object Detection, train-yolox-object-detection-on-custom-data.ipynb, https
 Resnet34 fast.ai Classification, train-resnet34-classification.ipynb, https://blog.roboflow.com/how-to-train-a-custom-resnet34-model, https://www.youtube.com/watch?v=93kXzUOiYY4,, , False, models
 OpenAI Clip Classification, how-to-use-openai-clip-classification.ipynb, https://blog.roboflow.com/how-to-use-openai-clip, https://www.youtube.com/watch?v=8o701AEoZ8I, https://github.com/openai/CLIP, 2103.00020, False, models
 YOLOv4-tiny Darknet Object Detection, train-yolov4-tiny-object-detection-on-custom-data.ipynb, https://blog.roboflow.ai/train-yolov4-tiny-on-custom-data-lighting-fast-detection, https://www.youtube.com/watch?v=NTnZgLsk_DA, https://github.com/roboflow-ai/darknet, 2011.04244, False, models
+DINO-GPT-4V Object Detection, dino-gpt4v-autodistill.ipynb, https://blog.roboflow.com/dino-gpt-4v/, , , , False, skills
 Auto Train YOLOv8 Model with Autodistill, how-to-auto-train-yolov8-model-with-autodistill.ipynb, https://blog.roboflow.com/autodistill, https://youtu.be/gKTYMfwPo4M, https://github.com/autodistill/autodistill, , True, skills
 Train a Segmentation Model with No Labeling, train-segmentation-model-with-no-labeling.ipynb, https://blog.roboflow.com/train-a-segmentation-model-no-labeling/, , https://github.com/autodistill/autodistill, , True, skills
 Train a YOLOv8 Classification Model with No Labeling, how-to-train-yolov8-classification-no-labeling.ipynb, https://blog.roboflow.com/train-classification-model-no-labeling/, , https://github.com/ultralytics/ultralytics, , True, models
