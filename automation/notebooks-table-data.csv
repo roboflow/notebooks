@@ -50,3 +50,4 @@ How to Use PolygonZone and Roboflow Supervision, how-to-use-polygonzone-annotate
 Train a Package Detector With Two Labeled Images, train-package-detector-two-labeled-images.ipynb, https://blog.roboflow.com/package-detector/, , https://github.com/autodistill/autodistill-seggpt, , False, skills
 Image-to-Image Search with CLIP and faiss, image-to-image-search-clip-faiss.ipynb, https://blog.roboflow.com/clip-image-search-faiss/, , , , False, skills
 Image classification using DeiT, train-DeiT-image-classifier-on-custom-data.ipynb, , ,https://github.com/facebookresearch/deit?tab=readme-ov-file, 2012.12877, False, models
+Image generation using DCGAN, train-dcgan-on-custom-data.ipynb, , ,https://github.com/pytorch/tutorials/blob/main/beginner_source/dcgan_faces_tutorial.py, 1511.06434, False, models
