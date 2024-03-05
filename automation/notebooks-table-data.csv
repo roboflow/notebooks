@@ -1,6 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
 Zero-Shot Object Detection with YOLO-World, zero-shot-object-detection-with-yolo-world.ipynb, https://blog.roboflow.com/what-is-yolo-world/, https://www.youtube.com/watch?v=X7gKBGVz4vs, https://github.com/AILab-CVC/YOLO-World, 2401.17270, True, models
-YOLOv9 Object Detection, train-yolov9-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/train-yolov9-model, , https://github.com/WongKinYiu/yolov9, 2402.13616, True, models
+YOLOv9 Object Detection, train-yolov9-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/train-yolov9-model, https://youtu.be/XHT2c8jT3Bc, https://github.com/WongKinYiu/yolov9, 2402.13616, True, models
 RTMDet Object Detection, train-rtmdet-object-detection-on-custom-data.ipynb, https://blog.roboflow.com/how-to-train-rtmdet-on-a-custom-dataset, https://youtu.be/5kgWyo6Sg4E, https://github.com/open-mmlab/mmdetection, 2212.07784, True, models
 Fast Segment Anything Model (FastSAM), how-to-segment-anything-with-fast-sam.ipynb, https://blog.roboflow.com/how-to-use-fastsam, https://youtu.be/yHNPyqazYYU, https://github.com/CASIA-IVA-Lab/FastSAM, 2306.12156, True, models
 YOLO-NAS Object Detection, train-yolo-nas-on-custom-dataset.ipynb, https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset, https://youtu.be/V-H3eoPUnA8, https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md, , True, models
