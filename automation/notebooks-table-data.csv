@@ -1,5 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
 Segment Images with SAM2,how-to-segment-images-with-sam-2.ipynb, https://blog.roboflow.com/what-is-segment-anything-2/, , https://github.com/facebookresearch/segment-anything-2, , True, models
+Segment Videos with SAM2,how-to-segment-videos-with-sam-2.ipynb, https://blog.roboflow.com/what-is-segment-anything-2/, , https://github.com/facebookresearch/segment-anything-2, , True, models
 RT-DETR Object Detection, train-rt-detr-on-custom-dataset-with-transformers.ipynb, https://blog.roboflow.com/train-rt-detr-custom-dataset-transformers/, , https://github.com/lyuwenyu/RT-DETR, 2304.08069, False, models
 Fine-Tune Florence-2 on Object Detection Dataset, how-to-finetune-florence-2-on-detection-dataset.ipynb, https://blog.roboflow.com/fine-tune-florence-2-object-detection/, https://www.youtube.com/watch?v=i3KjYgxNH6w, , 2311.06242, False, models
 Run Different Vision Tasks with Florence-2, how-to-run-different-vision-tasks-with-florence-2.ipynb, https://blog.roboflow.com/florence-2/, https://www.youtube.com/watch?v=hj_ybcRdk5Y, , 2311.06242, False, models
