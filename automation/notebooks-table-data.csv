@@ -1,5 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
-Use Grounded SAM 2 to Auto Label Images, grounded-sam-2-auto-label.ipynb, https://blog.roboflow.com/what-is-segment-anything-2, , https://github.com/facebookresearch/segment-anything-2, , True, models
+Football AI, football-ai.ipynb, https://blog.roboflow.com/camera-calibration-sports-computer-vision/, https://youtu.be/aBVGKoNZQUw, https://github.com/roboflow/sports, , False, skills
+Use Grounded SAM 2 to Auto Label Images, grounded-sam-2-auto-label.ipynb, https://blog.roboflow.com/what-is-segment-anything-2, , https://github.com/facebookresearch/segment-anything-2, , True, skills
 Segment Images with SAM2,how-to-segment-images-with-sam-2.ipynb, https://blog.roboflow.com/what-is-segment-anything-2/, , https://github.com/facebookresearch/segment-anything-2, , True, models
 Segment Videos with SAM2,how-to-segment-videos-with-sam-2.ipynb, https://blog.roboflow.com/what-is-segment-anything-2/, , https://github.com/facebookresearch/segment-anything-2, , True, models
 RT-DETR Object Detection, train-rt-detr-on-custom-dataset-with-transformers.ipynb, https://blog.roboflow.com/train-rt-detr-custom-dataset-transformers/, , https://github.com/lyuwenyu/RT-DETR, 2304.08069, False, models
