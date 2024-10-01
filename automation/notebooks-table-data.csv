@@ -1,6 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
-YOLO11 Object Detection, train-yolo11-object-detection-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, , False, models
-YOLO11 Instance Segmentation, train-yolo11-instance-segmentation-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, , False, models
+YOLO11 Object Detection, train-yolo11-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/yolov11-how-to-train-custom-data/, https://www.youtube.com/watch?v=jE_s4tVgPHA, https://github.com/ultralytics/ultralytics, , False, models
+YOLO11 Instance Segmentation, train-yolo11-instance-segmentation-on-custom-dataset.ipynb, , https://www.youtube.com/watch?v=jE_s4tVgPHA, https://github.com/ultralytics/ultralytics, , False, models
 Football AI, football-ai.ipynb, https://blog.roboflow.com/camera-calibration-sports-computer-vision/, https://youtu.be/aBVGKoNZQUw, https://github.com/roboflow/sports, , False, skills
 Automated Dataset Annotation with GroundedSAM 2, grounded-sam-2-auto-label.ipynb, https://blog.roboflow.com/what-is-segment-anything-2, , https://github.com/facebookresearch/segment-anything-2, , False, skills
 Segment Images with SAM2,how-to-segment-images-with-sam-2.ipynb, https://blog.roboflow.com/what-is-segment-anything-2/, https://www.youtube.com/live/Dv003fTyO-Y, https://github.com/facebookresearch/segment-anything-2, 2408.00714, False, models
