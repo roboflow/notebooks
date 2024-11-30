@@ -6,8 +6,8 @@ from dataclasses import dataclass
 from typing import Optional, List
 from enum import Enum
 
-NOTEBOOKS_ROOT_PATH = "https://github.com/roboflow-ai/notebooks/blob/main/notebooks"
-NOTEBOOKS_COLAB_ROOT_PATH = "github/roboflow-ai/notebooks/blob/main/notebooks"
+NOTEBOOKS_ROOT_PATH = "https://github.com/roboflow/notebooks/blob/main/notebooks"
+NOTEBOOKS_COLAB_ROOT_PATH = "github/roboflow/notebooks/blob/main/notebooks"
 
 WARNING_HEADER = [
     "<!---",
@@ -27,8 +27,8 @@ SKILLS_SECTION_HEADER = "## 📸 computer vision skills ({} notebooks)"
 NOTEBOOK_LINK_PATTERN = "[{}]({}/{})"
 OPEN_IN_COLAB_BADGE_PATTERN = "[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/{}/{})"
 OPEN_IN_KAGGLE_BADGE_PATTERN = "[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src={}/{})"
-OPEN_IN_SAGEMAKER_LAB_PATTERN = "[![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/{})"
-ROBOFLOW_BADGE_PATTERN = "[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)]({})"
+OPEN_IN_SAGEMAKER_LAB_PATTERN = "[![SageMaker](https://raw.githubusercontent.com/roboflow/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow/notebooks/blob/main/notebooks/{})"
+ROBOFLOW_BADGE_PATTERN = "[![Roboflow](https://raw.githubusercontent.com/roboflow/notebooks/main/assets/badges/roboflow-blogpost.svg)]({})"
 YOUTUBE_BADGE_PATTERN = "[![YouTube](https://badges.aleen42.com/src/youtube.svg)]({})"
 GITHUB_BADGE_PATTERN = "[![GitHub](https://badges.aleen42.com/src/github.svg)]({})"
 ARXIV_BADGE_PATTERN = "[![arXiv](https://img.shields.io/badge/arXiv-{}-b31b1b.svg)](https://arxiv.org/abs/{})"
