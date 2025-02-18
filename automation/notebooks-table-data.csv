@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
+Zero-Shot Object Detection with Qwen2.5-VL, zero-shot-object-detection-with-qwen2-5-vl.ipynb, , , https://github.com/QwenLM/Qwen2.5-VL, , False, models
 Fine-Tune Qwen2.5-VL for JSON Data Extraction, how-to-finetune-qwen2-5-vl-for-json-data-extraction.ipynb, , , https://github.com/QwenLM/Qwen2.5-VL, , False, models
 Fine-Tune PaliGemma2 on Object Detection Dataset, how-to-finetune-paligemma2-on-detection-dataset.ipynb, https://blog.roboflow.com/fine-tune-paligemma-2/, , https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md, 2412.03555, False, models
 Fine-Tune PaliGemma2 for JSON Data Extraction, how-to-finetune-paligemma2-for-json-data-extraction.ipynb, https://blog.roboflow.com/fine-tune-paligemma-2/, , https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md, 2412.03555, False, models
