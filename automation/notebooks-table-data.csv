@@ -1,4 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
+How to Track Objects with SORT Tracker, how-to-track-objects-with-sort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1602.00763, False, trackers
+How to Track Objects with DeepSORT Tracker, how-to-track-objects-with-deepsort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1703.07402, False, trackers
 Fine-Tune RF-DETR on Object Detection Dataset, how-to-finetune-rf-detr-on-detection-dataset.ipynb, https://blog.roboflow.com/rf-detr, https://www.youtube.com/live/yHW0ip-2i54, https://github.com/roboflow/rf-detr, , False, models
 Zero-Shot Object Detection and Segmentation with YOLOE, zero-shot-object-detection-and-segmentation-with-yoloe.ipynb, , https://www.youtube.com/watch?v=eHAnIehnCt4, https://github.com/THU-MIG/yoloe, 2503.07465, False, models
 Fine-Tune YOLOv12 on Object Detection Dataset, train-yolov12-object-detection-model.ipynb, https://blog.roboflow.com/train-yolov12-model, , https://github.com/sunsmarterjie/yolov12, 2502.12524, False, models
