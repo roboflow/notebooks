@@ -98,12 +98,22 @@ class TableEntry:
 
 
 def read_lines_from_file(path: str) -> List[str]:
-    with open(path) as file:
+    encodings_to_try = ['utf-8', 'latin-1', 'cp1252']
+    
+    for encoding in encodings_to_try:
+        try:
+            with open(path, encoding=encoding) as file:
+                return [line.rstrip() for line in file]
+        except UnicodeDecodeError:
+            continue
+    
+    # If all encodings fail, try with errors='replace'
+    with open(path, encoding='utf-8', errors='replace') as file:
         return [line.rstrip() for line in file]
 
 
 def save_lines_to_file(path: str, lines: List[str]) -> None:
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         for line in lines:
             f.write("%s\n" % line)
 
