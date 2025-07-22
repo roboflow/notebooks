@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
+Zero-Shot Object Detection and Segmentation with Google Gemini 2.5, zero-shot-object-detection-and-segmentation-with-google-gamini-2-5.ipynb, , , ,2507.06261, False, models
 How to Track Objects with SORT Tracker, how-to-track-objects-with-sort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1602.00763, False, trackers
 How to Track Objects with DeepSORT Tracker, how-to-track-objects-with-deepsort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1703.07402, False, trackers
 Fine-Tune RF-DETR on Object Detection Dataset, how-to-finetune-rf-detr-on-detection-dataset.ipynb, https://blog.roboflow.com/rf-detr, https://www.youtube.com/live/yHW0ip-2i54, https://github.com/roboflow/rf-detr, , False, models
