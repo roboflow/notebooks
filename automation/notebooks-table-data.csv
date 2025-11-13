@@ -1,12 +1,12 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, readme_section
-Fine-Tune RF-DETR Segmentation Preview on Custom Dataset, how-to-finetune-rf-detr-on-segmentation-dataset.ipynb, https://blog.roboflow.com/rf-detr-segmentation-preview, , https://github.com/roboflow/rf-detr, , False, models
+Fine-Tune RF-DETR Segmentation Preview on Custom Dataset, how-to-finetune-rf-detr-on-segmentation-dataset.ipynb, https://blog.roboflow.com/rf-detr-segmentation-preview, , https://github.com/roboflow/rf-detr, 2511.09554, False, models
 Basketball AI: Make or Miss - Jumpshot Detection, basketball-ai-make-or-miss-jumpshot-detection.ipynb, , , , , False, skills
 Basketball AI: Detect NBA 3 Second Violation, basketball-ai-automatic-detection-of-3-second-violations.ipynb, https://blog.roboflow.com/detect-3-second-violation-ai-basketball, , , , False, skills
 Basketball AI: How to Detect Track and Identify Basketball Players, basketball-ai-how-to-detect-track-and-identify-basketball-players.ipynb, https://blog.roboflow.com/identify-basketball-players, , , , False, skills
 Zero-Shot Object Detection and Segmentation with Google Gemini 2.5, zero-shot-object-detection-and-segmentation-with-google-gamini-2-5.ipynb, https://blog.roboflow.com/gemini-2-5-object-detection-segmentation/, , ,2507.06261, False, models
 How to Track Objects with SORT Tracker, how-to-track-objects-with-sort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1602.00763, False, trackers
 How to Track Objects with DeepSORT Tracker, how-to-track-objects-with-deepsort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1703.07402, False, trackers
-Fine-Tune RF-DETR on Object Detection Dataset, how-to-finetune-rf-detr-on-detection-dataset.ipynb, https://blog.roboflow.com/rf-detr, https://www.youtube.com/live/yHW0ip-2i54, https://github.com/roboflow/rf-detr, , False, models
+Fine-Tune RF-DETR on Object Detection Dataset, how-to-finetune-rf-detr-on-detection-dataset.ipynb, https://blog.roboflow.com/rf-detr, https://www.youtube.com/live/yHW0ip-2i54, https://github.com/roboflow/rf-detr, 2511.09554, False, models
 Zero-Shot Object Detection and Segmentation with YOLOE, zero-shot-object-detection-and-segmentation-with-yoloe.ipynb, https://blog.roboflow.com/yoloe-zero-shot-object-detection-segmentation/, https://www.youtube.com/watch?v=eHAnIehnCt4, https://github.com/THU-MIG/yoloe, 2503.07465, False, models
 Fine-Tune YOLOv12 on Object Detection Dataset, train-yolov12-object-detection-model.ipynb, https://blog.roboflow.com/train-yolov12-model, , https://github.com/sunsmarterjie/yolov12, 2502.12524, False, models
 Zero-Shot Object Detection with Qwen2.5-VL, zero-shot-object-detection-with-qwen2-5-vl.ipynb, https://blog.roboflow.com/qwen2-5-vl-zero-shot-object-detection/, https://www.youtube.com/watch?v=xEfh0IR8Fvo, https://github.com/QwenLM/Qwen2.5-VL, 2502.13923, False, models
