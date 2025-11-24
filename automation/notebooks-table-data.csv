@@ -1,6 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, should_link_to_notebook, readme_section
-Segment Images with SAM3,how-to-segment-images-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3,, False, False, models
-Segment Videos with SAM3,how-to-segment-videos-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3,, False, False, models
+Segment Images with SAM3,how-to-segment-images-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3, 2511.16719, False, False, models
+Segment Videos with SAM3,how-to-segment-videos-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3, 2511.16719, False, False, models
 Open Vocabulary Object Detection with Qwen3-VL, open-vocabulary-object-detection-with-qwen3-vl.ipynb, , , https://github.com/QwenLM/Qwen3-VL, , False, True, models
 Fine-Tune RF-DETR Segmentation on Custom Dataset, how-to-finetune-rf-detr-on-segmentation-dataset.ipynb, https://blog.roboflow.com/rf-detr-segmentation-preview, , https://github.com/roboflow/rf-detr, 2511.09554, False, True, models
 Basketball AI: Make or Miss - Jumpshot Detection, basketball-ai-make-or-miss-jumpshot-detection.ipynb, , , , , False, True, skills
