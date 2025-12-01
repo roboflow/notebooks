@@ -222,10 +222,6 @@ one-click NVIDIA deployment with GPUs pre-configured.
 |:------------------------:|
 | [![Click here to deploy.](https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg)](https://brev.nvidia.com/launchable/deploy?launchableID=env-36FkXXowryLVBNp7muTBMbPYIFt) |
 
-You can now 
-
-[![ Click here to deploy.](https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg)](https://brev.nvidia.com/launchable/deploy?launchableID=env-36FkXXowryLVBNp7muTBMbPYIFt)
-
 ## 🐞 bugs & 🦸 contribution
 
 Computer Vision moves fast! Sometimes our notebooks lag a tad behind the ever-pushing
