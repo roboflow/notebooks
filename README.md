@@ -215,8 +215,7 @@ anyone to learn and experiment with ML.
 
 ## 🚀 run in nvidia launchables
 
-You can now open our tutorial notebooks in [NVIDIA Launchables](https://www.nvidia.com/en-us/launchable/) -
-one-click NVIDIA deployment with GPUs pre-configured.
+You can now open our tutorial notebooks in [NVIDIA Launchables](https://www.nvidia.com/en-us/launchable/) - one-click NVIDIA deployment with GPUs pre-configured.
 
 | Train RF-DETR Instance Segmentation on Custom Dataset |
 |:------------------------:|
