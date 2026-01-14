@@ -1,5 +1,6 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, should_link_to_notebook, readme_section
 Fine-Tune YOLO26 on Object Detection Dataset, train-yolo26-object-detection-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, , False, True, models
+Fine-Tune YOLO26 on Instance Segmentation Dataset, train-yolo26-instance-segmentation-on-custom-dataset.ipynb, , , https://github.com/ultralytics/ultralytics, , False, True, models
 Segment Images with SAM3,how-to-segment-images-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3, 2511.16719, False, False, models
 Segment Videos with SAM3,how-to-segment-videos-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3, 2511.16719, False, False, models
 Open Vocabulary Object Detection with Qwen3-VL, open-vocabulary-object-detection-with-qwen3-vl.ipynb, , , https://github.com/QwenLM/Qwen3-VL, , False, True, models
