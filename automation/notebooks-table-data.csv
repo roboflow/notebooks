@@ -1,4 +1,5 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, should_open_in_sagemaker_labs, should_link_to_notebook, readme_section
+How to Track Objects with RF-DETR and ByteTrack Tracker, how-to-track-objects-with-bytetrack-tracker.ipynb, , , https://github.com/roboflow/trackers, 2110.06864, False, True, models
 Fine-Tune YOLO26 on Object Detection Dataset, train-yolo26-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/how-to-train-yolo26-custom-data/, , https://github.com/ultralytics/ultralytics, , False, True, models
 Fine-Tune YOLO26 on Instance Segmentation Dataset, train-yolo26-instance-segmentation-on-custom-dataset.ipynb, https://blog.roboflow.com/train-yolo26-instance-segmentation-custom-data/, , https://github.com/ultralytics/ultralytics, , False, True, models
 Segment Images with SAM3,how-to-segment-images-with-segment-anything-3.ipynb, https://blog.roboflow.com/sam3/, https://www.youtube.com/watch?v=G1AEuFwQrWU, https://github.com/facebookresearch/sam3, 2511.16719, False, False, models
@@ -8,7 +9,8 @@ Fine-Tune RF-DETR Segmentation on Custom Dataset, how-to-finetune-rf-detr-on-seg
 Basketball AI: Detect NBA 3 Second Violation, basketball-ai-automatic-detection-of-3-second-violations.ipynb, https://blog.roboflow.com/detect-3-second-violation-ai-basketball, , , , False, True, skills
 Basketball AI: How to Detect Track and Identify Basketball Players, basketball-ai-how-to-detect-track-and-identify-basketball-players.ipynb, https://blog.roboflow.com/identify-basketball-players, https://www.youtube.com/watch?v=yGQb9KkvQ1Q, , , False, True, skills
 Zero-Shot Object Detection and Segmentation with Google Gemini 2.5, zero-shot-object-detection-and-segmentation-with-google-gamini-2-5.ipynb, https://blog.roboflow.com/gemini-2-5-object-detection-segmentation/, , ,2507.06261, False, True, models
-How to Track Objects with SORT Tracker, how-to-track-objects-with-sort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1602.00763, False, True, trackers
+How to Track Objects with RF-DETR and ByteTrack Tracker, how-to-track-objects-with-bytetrack-tracker.ipynb, , , https://github.com/roboflow/trackers, 2110.06864, False, True, trackers
+How to Track Objects with RF-DETR and SORT Tracker, how-to-track-objects-with-sort-tracker.ipynb, , , https://github.com/roboflow/trackers, 1602.00763, False, True, trackers
 Fine-Tune RF-DETR on Object Detection Dataset, how-to-finetune-rf-detr-on-detection-dataset.ipynb, https://blog.roboflow.com/rf-detr, https://www.youtube.com/live/yHW0ip-2i54, https://github.com/roboflow/rf-detr, 2511.09554, False, True, models
 Zero-Shot Object Detection and Segmentation with YOLOE, zero-shot-object-detection-and-segmentation-with-yoloe.ipynb, https://blog.roboflow.com/yoloe-zero-shot-object-detection-segmentation/, https://www.youtube.com/watch?v=eHAnIehnCt4, https://github.com/THU-MIG/yoloe, 2503.07465, False, True, models
 Fine-Tune YOLOv12 on Object Detection Dataset, train-yolov12-object-detection-model.ipynb, https://blog.roboflow.com/train-yolov12-model, , https://github.com/sunsmarterjie/yolov12, 2502.12524, False, True, models
