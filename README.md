@@ -215,6 +215,13 @@ anyone to learn and experiment with ML.
 |:---------------------------------:|:------------------------------:|:------------------------------:|
 |  [![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/sagemaker-studiolab/stable-diffusion-image-generation.ipynb) | [![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/sagemaker-studiolab/yolov5-custom-training.ipynb)       |[![SageMaker](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/sage-maker.svg)](https://studiolab.sagemaker.aws/import/github/roboflow-ai/notebooks/blob/main/notebooks/sagemaker-studiolab/yolov7-custom-training.ipynb)       |
 
+## 🚀 run in nvidia launchables
+
+You can now open our tutorial notebooks in [NVIDIA Launchables](https://www.nvidia.com/en-us/launchable/) - one-click NVIDIA deployment with GPUs pre-configured.
+
+| Train RF-DETR Instance Segmentation on Custom Dataset |
+|:------------------------:|
+| [![Click here to deploy.](https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg)](https://brev.nvidia.com/launchable/deploy?launchableID=env-36FkXXowryLVBNp7muTBMbPYIFt) |
 
 ## 🐞 bugs & 🦸 contribution
 
