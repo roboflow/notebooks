@@ -2,6 +2,7 @@ display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_
 RF-DETR Keypoint Detection and Fine-Tuning, rf-detr-keypoint-detection.ipynb, , , https://github.com/roboflow/rf-detr, , False, True, models
 Object Detection with Google Gemini 3.5 Flash, object-detection-with-gemini-3-5-flash.ipynb, , , , , False, True, models
 How to Perform OCR with GLM-OCR, how-to-perform-ocr-with-glm-ocr.ipynb, , https://www.youtube.com/watch?v=_KCXD8vFIYM, https://github.com/zai-org/GLM-OCR, 2603.10910, False, True, models
+How to Tell Objects Apart with ReID, how-to-tell-objects-apart-with-reid.ipynb, , , https://github.com/roboflow/re-ID, , False, True, models
 How to Track Objects with RF-DETR and ByteTrack Tracker, how-to-track-objects-with-bytetrack-tracker.ipynb, , https://www.youtube.com/watch?v=u0k2dTZ0vfs, https://github.com/roboflow/trackers, 2110.06864, False, True, models
 Fine-Tune YOLO26 on Object Detection Dataset, train-yolo26-object-detection-on-custom-dataset.ipynb, https://blog.roboflow.com/how-to-train-yolo26-custom-data/, https://www.youtube.com/watch?v=sczVknSvzh4a, https://github.com/ultralytics/ultralytics, , False, True, models
 Fine-Tune YOLO26 on Instance Segmentation Dataset, train-yolo26-instance-segmentation-on-custom-dataset.ipynb, https://blog.roboflow.com/train-yolo26-instance-segmentation-custom-data/, https://www.youtube.com/watch?v=sczVknSvzh4a, https://github.com/ultralytics/ultralytics, , False, True, models
